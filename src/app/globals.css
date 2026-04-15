@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --color-bg: #FAFAFA;
+  --color-bg-secondary: #FFFFFF;
+  --color-bg-tertiary: #F5F0F0;
+  --color-text: #2C2C2C;
+  --color-text-secondary: #6B6369;
+  --color-text-muted: #9B939A;
+  --color-accent: #D4537E;
+  --color-accent-light: #FBEAF0;
+  --color-accent-blue: #378ADD;
+  --color-accent-blue-light: #E6F1FB;
+  --color-border: rgba(0, 0, 0, 0.08);
+  --color-border-hover: rgba(0, 0, 0, 0.15);
+  --color-card-shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --color-hero-gradient: linear-gradient(135deg, #FBEAF0 0%, #E6F1FB 50%, #E1F5EE 100%);
+  --color-pill-bg: #FBEAF0;
+  --color-pill-text: #993556;
+  --color-footer-bg: #2C2C2A;
+  --color-footer-text: #D3D1C7;
+  --color-footer-muted: #888780;
+}
+
+.dark {
+  --color-bg: #1A1A1D;
+  --color-bg-secondary: #232326;
+  --color-bg-tertiary: #2A2A2E;
+  --color-text: #EDECEB;
+  --color-text-secondary: #B4B2A9;
+  --color-text-muted: #888780;
+  --color-accent: #ED93B1;
+  --color-accent-light: #4B1528;
+  --color-accent-blue: #85B7EB;
+  --color-accent-blue-light: #042C53;
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-border-hover: rgba(255, 255, 255, 0.15);
+  --color-card-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.15);
+  --color-hero-gradient: linear-gradient(135deg, #4B1528 0%, #042C53 50%, #04342C 100%);
+  --color-pill-bg: #4B1528;
+  --color-pill-text: #ED93B1;
+  --color-footer-bg: #111113;
+  --color-footer-text: #B4B2A9;
+  --color-footer-muted: #5F5E5A;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* Leaflet overrides */
+.leaflet-container {
+  font-family: 'Inter', system-ui, sans-serif !important;
+  border-radius: 12px;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 10px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.leaflet-popup-content {
+  margin: 12px 16px !important;
+  font-size: 0.85rem !important;
+  line-height: 1.5 !important;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-hover);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Form elements */
+input, textarea, select {
+  font-family: inherit;
+}

@@ -1,0 +1,5217 @@
+[
+  {
+    "id": "0001",
+    "name": "Facialteam",
+    "country": "Spain",
+    "state": "M\u00e1laga",
+    "city": "Marbella",
+    "website": "https://facialteam.eu/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/practices/facialteam-marbella-spain",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0002",
+    "name": "Dr. Deschamps-Braly",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://deschamps-braly.com/",
+    "rating": 3.6,
+    "reviewCount": 9,
+    "realSelfLink": "https://www.realself.com/dr/jordan-deschamps-braly-san-francisco-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0003",
+    "name": "Dr. Jeff Jumaily",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://www.drjumaily.com/",
+    "rating": 4.8,
+    "reviewCount": 63,
+    "realSelfLink": "https://www.realself.com/dr/jeffrey-jumaily-los-angeles-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0004",
+    "name": "Kamol Hospital",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://kamolhospital.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0005",
+    "name": "Bounmany Kyle Keojampa",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco | Los Angeles",
+    "website": "https://www.drkeojampa.com/",
+    "rating": 4.6,
+    "reviewCount": 30,
+    "realSelfLink": "https://www.realself.com/dr/bounmany-kyle-keojampa-marina-del-rey-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0006",
+    "name": "William Rahal",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://drwilliamrahal.com/",
+    "rating": 4.9,
+    "reviewCount": 232,
+    "realSelfLink": "https://www.realself.com/dr/william-rahal-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Body feminization",
+      "Breast augmentation",
+      "Brazilian butt lift"
+    ]
+  },
+  {
+    "id": "0007",
+    "name": "GrS Montreal",
+    "country": "Canada",
+    "state": "Qu\u00e9bec",
+    "city": "Montr\u00e9al",
+    "website": "https://www.grsmontreal.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty",
+      "Vocal training",
+      "Breast augmentation",
+      "Phalloplasty",
+      "Mastectomy"
+    ]
+  },
+  {
+    "id": "0008",
+    "name": "Solomon Facial Plastic",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://www.solomonfacialplastic.com/",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/practices/solomon-facial-plastic-thornhill-ontario",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0009",
+    "name": "Catalyst Surgical",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://catalystsurgical.ca/about/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0010",
+    "name": "Verso Surgery Centre",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Oakville",
+    "website": "https://versosurgerycentre.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0011",
+    "name": "Braun Plastic Surgery",
+    "country": "Republic of Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://braunps.com/",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "realSelfLink": "https://www.realself.com/practices/braun-plastic-surgery-seoul-south-korea",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0012",
+    "name": "Visage Clinic",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://www.visageclinic.com/",
+    "rating": 4.7,
+    "reviewCount": 13,
+    "realSelfLink": "https://www.realself.com/practices/visage-clinic-toronto-ontarioo",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0013",
+    "name": "Dr. Eric Bensimon",
+    "country": "Canada",
+    "state": "Qu\u00e9bec",
+    "city": "Montr\u00e9al",
+    "website": "https://www.facial-feminization-surgery.com/",
+    "rating": 4.3,
+    "reviewCount": 13,
+    "realSelfLink": "https://www.realself.com/dr/eric-bensimon-montreal-qcc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0014",
+    "name": "Dr. Nicholas Cormier",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "website": "https://www.ottawaplasticsurgery.com/about/dr-nicholas-cormier/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0015",
+    "name": "Maud B\u00e9langer",
+    "country": "Canada",
+    "state": "Qu\u00e9bec",
+    "city": "Montr\u00e9al",
+    "website": "https://www.grsmontreal.com/fr/chirurgiens/2-dre-maud-belanger.html",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/maud-belanger-montreal-qcc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0016",
+    "name": "Sami Moubayed",
+    "country": "Canada",
+    "state": "Qu\u00e9bec",
+    "city": "Montr\u00e9al",
+    "website": "https://cliniquefacemd.com",
+    "rating": 4.7,
+    "reviewCount": 24,
+    "realSelfLink": "https://www.realself.com/dr/sami-moubayed-montreal-qcc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0017",
+    "name": "Ali Adibfar",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://dradibfar.com/",
+    "rating": 4.8,
+    "reviewCount": 146,
+    "realSelfLink": "https://www.realself.com/dr/ali-adibfar-toronto-onn",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0018",
+    "name": "Marc DuP\u00e9r\u00e9",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://www.visageclinic.com/",
+    "rating": 4.5,
+    "reviewCount": 128,
+    "realSelfLink": "https://www.realself.com/dr/marc-dupere-toronto-on",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0019",
+    "name": "Richard Rival",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://rivalcosmeticsurgery.com/",
+    "rating": 4.3,
+    "reviewCount": 120,
+    "realSelfLink": "https://www.realself.com/dr/richard-rival-toronto-on",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0020",
+    "name": "Mohammed Mehboob Elahi",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://elahiplasticsurgery.ca",
+    "rating": 3.9,
+    "reviewCount": 19,
+    "realSelfLink": "https://www.realself.com/dr/mohammed-elahi-toronto-on",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0021",
+    "name": "Cameron Bowman",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "website": "https://www.fairviewplasticsurgery.com/",
+    "rating": 4.0,
+    "reviewCount": 2,
+    "realSelfLink": "https://www.realself.com/dr/cameron-bowman-vancouver-bc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0022",
+    "name": "Kevin Bush",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "website": "https://surgery.med.ubc.ca/people/kbush/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0023",
+    "name": "Parag Telang",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "website": "https://www.drparagtelang.com/",
+    "rating": 4.4,
+    "reviewCount": 34,
+    "realSelfLink": "https://www.realself.com/dr/parag-telang-mumbai-india",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0025",
+    "name": "Kishore Babu Pentyala",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "website": "https://drpentyalas.com/index.html",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0026",
+    "name": "SM Balaji",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "website": "https://www.smbalaji.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0027",
+    "name": "Sunil Richardson",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "city": "Nagercoil",
+    "website": "https://facesurgeon.in",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0028",
+    "name": "Umang Kothari",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "website": "https://drumangkothari.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0029",
+    "name": "Janemed",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "website": "https://www.janemedsurgical.in/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0030",
+    "name": "Iranian Surgery",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Shiraz",
+    "website": "https://iraniansurgery.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0031",
+    "name": "Anna Sluzky",
+    "country": "Armenia",
+    "state": null,
+    "city": "Yerevan",
+    "website": "https://www.facemakermd.com/about/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0032",
+    "name": "AB Plastic Surgery",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "http://www.abps.co.kr",
+    "rating": 4.9,
+    "reviewCount": 116,
+    "realSelfLink": "https://www.realself.com/practices/ab-plastic-surgery-seoul-south-korea",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0033",
+    "name": "Grand Clinic",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://eng.grandsurgery.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0034",
+    "name": "View Clinic",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://www.viewplasticsurgery.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0035",
+    "name": "Braun Beauty Medical Group",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://braunps.net/",
+    "rating": 4.5,
+    "reviewCount": 10,
+    "realSelfLink": "https://www.realself.com/practices/braun-plastic-surgery-seoul-south-korea",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0036",
+    "name": "K-ART",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://www.k-artps.com/eng/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0037",
+    "name": "ID Hospital",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://en.idhospital.com/",
+    "rating": 4.3,
+    "reviewCount": 47,
+    "realSelfLink": "https://www.realself.com/practices/id-hospital-seoul-gangnam-gu",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0038",
+    "name": "Nana Hospital",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://en.nanahospital.com/",
+    "rating": 4.9,
+    "reviewCount": 108,
+    "realSelfLink": "https://www.realself.com/practices/nana-plastic-surgery-hospital-seoul-seoul",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0039",
+    "name": "Kangdong Sacred Heart Hospital",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://en.kdh.or.kr/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0040",
+    "name": "Wonjin Plastic Surgery Clinic",
+    "country": "South Korea",
+    "state": null,
+    "city": "Seoul",
+    "website": "https://www.k-wonjin.co.kr/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0041",
+    "name": "Charbel Medawar",
+    "country": "Lebanon",
+    "state": "Matn District",
+    "city": "Antelias",
+    "website": "https://www.drcharbelmedawar.com/",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/charbel-medawar-beirut-lebanon",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0042",
+    "name": "Lazaro Cardenas",
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "website": "http://transop.com/",
+    "rating": 4.6,
+    "reviewCount": 12,
+    "realSelfLink": "https://www.realself.com/dr/lazaro-cardenas-jalisco-mexico",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0043",
+    "name": "Carlos Mendez",
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "website": "http://www.mexicotransgendercenter.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0044",
+    "name": "Duard Jos\u00e9 Guzm\u00e1n Camacho",
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "website": "http://dreduardguzman.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0045",
+    "name": "Jes\u00fas B\u00e1ez M\u00e1rquez",
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "website": "https://www.facecenter.mx/en",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0046",
+    "name": "Hector Malagon Hidalgo",
+    "country": "Mexico",
+    "state": null,
+    "city": "Mexico City",
+    "website": "https://hectormalagon.wixsite.com/drmalagon",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0047",
+    "name": "Dr. Chettawut Tulayaphanich",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://www.chet-plasticsurgery.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0048",
+    "name": "Dr. Jaromir Slama",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "website": "https://www.bmc.org/about-us/directory/doctor/jaromir-slama-md",
+    "rating": 5.0,
+    "reviewCount": 3,
+    "realSelfLink": "https://www.realself.com/dr/jaromir-slama-boston-ma",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Body feminization",
+      "Breast augmentation",
+      "Body masculinization"
+    ]
+  },
+  {
+    "id": "0049",
+    "name": "Emiliano Torres",
+    "country": "Argentina",
+    "state": "C\u00f3rdoba",
+    "city": "C\u00f3rdoba",
+    "website": "https://www.facialfeminizationcenter.com/dr-emiliano-torres",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "realSelfLink": "https://www.realself.com/dr/emiliano-torres-c-rdoba-argentina",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0050",
+    "name": "Marcelo Di Maggio",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "city": "Buenos Aires",
+    "website": "http://mdmsurgery.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0051",
+    "name": "Javier Luis Rossi",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "city": "Buenos Aires",
+    "website": "http://www.t-change.com/",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "realSelfLink": "https://www.realself.com/dr/javier-rossi-buenos-aires-argentina",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0052",
+    "name": "Edgar Fridlender",
+    "country": "Armenia",
+    "state": null,
+    "city": "Yerevan",
+    "website": "https://www.instagram.com/dr_edgar_fridlender/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0053",
+    "name": "Transgender Center Brazil",
+    "country": "Brazil",
+    "state": "Santa Catarina",
+    "city": "Blumenau",
+    "website": "http://www.transgeneros.com.br",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0054",
+    "name": "Instituto da Face sp",
+    "country": "Brazil",
+    "state": "S\u00e3o Paulo",
+    "city": "S\u00e3o Paulo",
+    "website": "https://institutodafacesp.com.br",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0055",
+    "name": "Jos\u00e9 Luis Salas Mart\u00ednez",
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "website": "https://www.evoclinic.mx",
+    "rating": 3.4,
+    "reviewCount": 7,
+    "realSelfLink": "https://www.realself.com/dr/jose-luis-salas-martinez-tijuana-mexico",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0056",
+    "name": "Moises Guerrero Jim\u00e9nez\u2060",
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "website": "https://www.drmoisesguerrero.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0057",
+    "name": "Jesus Rafael Benitez Gomez",
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "website": "https://symmetryclinic.com.mx",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0058",
+    "name": "Glen Bartlett",
+    "country": "New Zealand",
+    "state": "North Island",
+    "city": "Auckland",
+    "website": "https://www.rhinoplastyauckland.co.nz/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0059",
+    "name": "Zachary Moaveni",
+    "country": "New Zealand",
+    "state": "North Island",
+    "city": "Auckland",
+    "website": "https://zacharymoaveni.co.nz",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0060",
+    "name": "Sergio Pimentel",
+    "country": "Peru",
+    "state": "Lima",
+    "city": "Lima",
+    "website": null,
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0061",
+    "name": "Angela Hernandez",
+    "country": "Phillipines",
+    "state": null,
+    "city": "Manila",
+    "website": "https://usthospital.com.ph/doctors/hernandez-angela-rose/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0062",
+    "name": "Konstantin Matveev Alexandrovich",
+    "country": "Russia",
+    "state": null,
+    "city": null,
+    "website": "http://matveev-plastica.ru",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0063",
+    "name": "MC Hsieh",
+    "country": "Taiwan",
+    "state": null,
+    "city": "Taipei City",
+    "website": "http://www.mch-oms.tw",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0064",
+    "name": "Serdar Nas\u0131r",
+    "country": "Turkey",
+    "state": "Ankara",
+    "city": "Ankara",
+    "website": "https://www.serdarnasir.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0065",
+    "name": "Esma Demirezen",
+    "country": "Turkey",
+    "state": null,
+    "city": null,
+    "website": "http://www.hygieiaturkey.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0066",
+    "name": "Muzaffer \u00c7elik",
+    "country": "Turkey",
+    "state": "Marmara",
+    "city": "Istanbul",
+    "website": "https://www.whatclinic.com/cosmetic-plastic-surgery/turkey/istanbul-province/istanbul/dr-muzaffer-celik",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0067",
+    "name": "Murat T\u00fcreg\u00fcn",
+    "country": "Turkey",
+    "state": "Marmara",
+    "city": "Istanbul",
+    "website": "https://muratturegun.com/en/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/murat-turegun-istanbul-turkey",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0068",
+    "name": "Neda Transgender Surgery",
+    "country": "Turkey",
+    "state": "Marmara",
+    "city": "Istanbul",
+    "website": "https://nedatransgendersurgery.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Breast augmentation"
+    ]
+  },
+  {
+    "id": "0069",
+    "name": "Niyazi Altinoprak",
+    "country": "Turkey",
+    "state": "Marmara",
+    "city": "Istanbul",
+    "website": "https://niyazialtintoprak.com",
+    "rating": 4.9,
+    "reviewCount": 163,
+    "realSelfLink": "https://www.realself.com/dr/niyazi-altintoprak-istanbul-turkey",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0070",
+    "name": "Mehmet Fatih Okyay",
+    "country": "Turkey",
+    "state": "Antalya",
+    "city": "Antalya",
+    "website": "https://www.dr-mfo.com",
+    "rating": 4.4,
+    "reviewCount": 14,
+    "realSelfLink": "https://www.realself.com/dr/mehmet-fatih-okyay-antakya-turkey",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Body feminization",
+      "Mastectomy"
+    ]
+  },
+  {
+    "id": "0071",
+    "name": "Paul Gerarchi",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "website": "https://www.thefaceinstitute.com.au/",
+    "rating": 4.5,
+    "reviewCount": 40,
+    "realSelfLink": "https://www.realself.com/dr/paul-g-gerarchi-potts-point-australia",
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0072",
+    "name": "Mahyar Amjadi",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "website": "http://luxeclinic.com.au/",
+    "rating": 4.7,
+    "reviewCount": 16,
+    "realSelfLink": "https://www.realself.com/dr/mahyar-amjadi-edgecliff-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0073",
+    "name": "Jeremy Hunt",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "website": "https://www.drjeremyhunt.com.au/",
+    "rating": 4.8,
+    "reviewCount": 241,
+    "realSelfLink": "https://www.realself.com/dr/jeremy-hunt-woollahra-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0074",
+    "name": "Robert Knight",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "website": "https://www.pureaesthetics.com.au/procedures/face/facial-feminisation/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0075",
+    "name": "Michael Zacharia",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "website": "https://www.drzacharia.com.au/",
+    "rating": 4.3,
+    "reviewCount": 79,
+    "realSelfLink": "https://www.realself.com/dr/michael-zacharia-sydney-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0076",
+    "name": "Chaithan Reddy",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "website": "https://www.theplasticsurgeryclinic.com.au",
+    "rating": 5.0,
+    "reviewCount": 15,
+    "realSelfLink": "https://www.realself.com/dr/chaithan-reddy-sydney-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0077",
+    "name": "Scott Ingram",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "website": "https://www.westsideprivate.com.au/our_specialists/dr-scott-ingram/",
+    "rating": 4.4,
+    "reviewCount": 15,
+    "realSelfLink": "https://www.realself.com/dr/scott-ingram-east-brisbane-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0078",
+    "name": "Matthew Broadhurst",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "website": "https://www.entdoctor.com.au/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Voice feminization",
+      "Tracheal shave"
+    ]
+  },
+  {
+    "id": "0079",
+    "name": "David J. David",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "website": "http://www.ddms.com.au/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0080",
+    "name": "Walter Flapper",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "website": "https://www.drflapper.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/walter-flapper-north-adelaide-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0081",
+    "name": "Lachlan Farmer",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "website": "https://genderinstituteaustralia.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty",
+      "Orchiectomy"
+    ]
+  },
+  {
+    "id": "0082",
+    "name": "Stephen Kleid",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "website": "https://melbourne-ent.com.au/about/dr-stephen-kleid-ent-surgeon/",
+    "rating": 5.0,
+    "reviewCount": 27,
+    "realSelfLink": "https://www.realself.com/dr/stephen-kleid-east-st-kilda-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0083",
+    "name": "Patrick Walsh",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "website": "https://www.drpatrickwalsh.com.au",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0084",
+    "name": "Alan Breidahl",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "website": "https://melbourneplasticsurgery.com.au",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "realSelfLink": "https://www.realself.com/dr/alan-breidahl-brighton-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0085",
+    "name": "Jayson Oates",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "website": "https://academyfaceandbody.com.au/",
+    "rating": 5.0,
+    "reviewCount": 23,
+    "realSelfLink": "https://www.realself.com/dr/jayson-oates-subiaco-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0086",
+    "name": "Mark Lee",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "website": "https://markleeplasticsurgeon.com.au/",
+    "rating": 4.6,
+    "reviewCount": 16,
+    "realSelfLink": "https://www.realself.com/dr/mark-lee-subiaco-australia",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0087",
+    "name": "Linda Monshizadeh",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "website": "https://artunismedicalgroup.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0088",
+    "name": "Joan Birbe",
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "website": "https://www.birbe.org",
+    "rating": 5.0,
+    "reviewCount": 4,
+    "realSelfLink": "https://www.realself.com/dr/joan-birbe-barcelona-spain",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0089",
+    "name": "Kai Oliver Kaye",
+    "country": "Spain",
+    "state": "M\u00e1laga",
+    "city": "Marbella",
+    "website": "https://www.oceanclinic.net",
+    "rating": 3.1,
+    "reviewCount": 11,
+    "realSelfLink": "https://www.realself.com/dr/kai-o-kaye-marbella-spain",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0090",
+    "name": "Mac\u00eda Col\u00f3n",
+    "country": "Spain",
+    "state": null,
+    "city": "Madrid",
+    "website": "https://facifem.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0091",
+    "name": "Bert Oelbrandt",
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerp",
+    "website": "https://www.singelberg-kliniek.be/dokters/dr-bert-oelbrandt/",
+    "rating": 4.8,
+    "reviewCount": 155,
+    "realSelfLink": "https://www.realself.com/dr/bert-oelbrandt-beveren-waas-belgium",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0092",
+    "name": "Noorman van der Dussen",
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerp",
+    "website": "http://www.noormanvanderdussen.com",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "realSelfLink": "https://www.realself.com/dr/mf-noorman-van-der-dussen-beveren-belgium",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0093",
+    "name": "Bert Oelbrandt",
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerp",
+    "website": "https://www.singelberg-kliniek.be/dokters/dr-bert-oelbrandt/",
+    "rating": 4.8,
+    "reviewCount": 155,
+    "realSelfLink": "https://www.realself.com/dr/bert-oelbrandt-beveren-waas-belgium",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0094",
+    "name": "Wim Verhaeghe",
+    "country": "Netherlands",
+    "state": "North Holland",
+    "city": "Amsterdam",
+    "website": "https://www.carecliniccosmeticsurgery.com/en/home-careclinic/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0095",
+    "name": "Alex Lemaitre",
+    "country": "Belgium",
+    "state": null,
+    "city": "Brussels",
+    "website": "https://www.cliniquedescardamines.be/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0096",
+    "name": "Maurice Mommaerts",
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Sint-Martens-Latem",
+    "website": "http://www.mauricemommaerts.eu/en/facial-feminization-surgery.aspx",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0097",
+    "name": "Olivier Beckers",
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Hasselt",
+    "website": "https://www.olivierbeckers.eu",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/olivier-beckers-hasselt-belgium",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0098",
+    "name": "St\u00e9phan Alessandro",
+    "country": "Belgium",
+    "state": "Namur",
+    "city": "Namur",
+    "website": "https://www.chuuclnamur.be/annuaire/alessandro-stephan",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0099",
+    "name": "Ivo Nemec",
+    "country": "Czechia",
+    "state": null,
+    "city": "Prague",
+    "website": "https://www.uem.cz/lekari/mudr-ivo-nemec",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0100",
+    "name": "Xavier Lachiver",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "http://www.chirurgie-faciale.fr/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0101",
+    "name": "Robin Ruiz",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://docteur-robin-ruiz.fr/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0102",
+    "name": "Quentin Qassemyar",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://www.crisalix.com/en/directory/quentin-qassemyar",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0103",
+    "name": "G\u00e9rald Franchi",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://www.docteur-franchi.com/chirurgie-transgenre/chirurgie-esthetique-chirurgie-transgenre-feminisation-faciale-ffs/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/gerald-franchi-paris-france",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0104",
+    "name": "Sarra Cristofari",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://www.transparis.fr/chirurgie.html",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0105",
+    "name": "Xavier Lachiver",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://www.chirurgie-faciale.fr/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0106",
+    "name": "Mathieu Bondaz",
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Bordeaux",
+    "website": "https://www.chirurgie-maxillo-faciale-bordeaux.com/introduction",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0107",
+    "name": "Jean-Paul M\u00e9ningaud",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://dutic-cumeg.wixsite.com/serviceplastiecmf/feminisationfaciale",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/jean-paul-meningaud-paris-france",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0108",
+    "name": "Coiante Edoardo",
+    "country": "France",
+    "state": "\u00cele-de-France",
+    "city": "Paris",
+    "website": "https://www.doctolib.fr/chirurgie-maxillo-facial/paris/edoardo-coiante-paris",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0109",
+    "name": "Dr. Jammet",
+    "country": "France",
+    "state": "Occitania",
+    "city": "Montpellier",
+    "website": "https://coem-esthetique.com/docteur-patrick-jammet/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0110",
+    "name": "Cvetan Taskov",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Erding",
+    "website": "https://www.dr-taskov.de",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0111",
+    "name": "Morath & Sch\u00f6ll",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "website": "https://www.plastische-chirurgie-muenchen-ms.de/aesthetik/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0112",
+    "name": "Jurgen Schaff",
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Potsdam",
+    "website": "https://drschaff.de/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0113",
+    "name": "Norman Koebe",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "D\u00fcsseldorf",
+    "website": "https://www.koebe-klinik.de",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0114",
+    "name": "Wolfgang Funk",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "website": "https://www.schoenheitsklinik.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0115",
+    "name": "Annabelle Victoria Lappat",
+    "country": "Germany",
+    "state": null,
+    "city": "Berlin",
+    "website": "https://audiologie-phoniatrie.charite.de/metas/person/person/address_detail/dr_med_annabelle_victoria_lappat",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Voice feminization",
+      "Tracheal shave"
+    ]
+  },
+  {
+    "id": "0116",
+    "name": "Alexander Mainka",
+    "country": "Germany",
+    "state": null,
+    "city": "Berlin",
+    "website": "https://audiologie-phoniatrie.charite.de/metas/person/person/address_detail/dr_med_alexander_mainka/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Voice feminization",
+      "Tracheal shave"
+    ]
+  },
+  {
+    "id": "0117",
+    "name": "Makroydis Konstantinos",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Athens",
+    "website": "http://www.iatroaesthetics.gr/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0118",
+    "name": "Brigitte A. Meijer",
+    "country": "Netherlands",
+    "state": "North Holland",
+    "city": "Amsterdam",
+    "website": "https://amsterdamumc.org/en/research/researchers/brigitte-meijer",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0119",
+    "name": "Tim Nijhuis",
+    "country": "Netherlands",
+    "state": "North Holland",
+    "city": "Amsterdam",
+    "website": "http://www.drtimnijhuis.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0120",
+    "name": "Janusz Robert Jaworowski",
+    "country": "Poland",
+    "state": null,
+    "city": "Warsaw",
+    "website": "http://drjaworowski.pl",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0121",
+    "name": "David Sanz",
+    "country": "Portugal",
+    "state": "Lisbon",
+    "city": "Lisbon",
+    "website": "https://www.ipface.pt/en/ipface-medical-team-dr-david-sanz",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0122",
+    "name": "Carlos Nabuco",
+    "country": "Portugal",
+    "state": "Lisbon",
+    "city": "Lisbon",
+    "website": "https://www.ipface.pt/en/equipa-medica-ipface-dr-carlos-nabuco",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0123",
+    "name": "Dr. Mihai Aschilian",
+    "country": "Romania",
+    "state": "Cluj County",
+    "city": "Cluj-Napoca",
+    "website": "http://www.mihaiaschilian.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0124",
+    "name": "Zoran Stajcic",
+    "country": "Serbia",
+    "state": null,
+    "city": "Belgrade",
+    "website": "https://beograd-centar.rs/hirurska-feminizacija-lica/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0125",
+    "name": "Alberto Musolas",
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "website": "https://www.musolasdisforiadegenero.com/en",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty",
+      "Orchiectomy",
+      "Breast augmentation",
+      "Phalloplasty",
+      "Mastectomy"
+    ]
+  },
+  {
+    "id": "0126",
+    "name": "Richard Fakin",
+    "country": "Spain",
+    "state": null,
+    "city": "Madrid",
+    "website": "https://drrichardfakin.com/en/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/richard-fakin-madrid-spain",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0127",
+    "name": "Ivan Ma\u00f1ero Vazquez",
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "website": "http://www.ivanmanero.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0128",
+    "name": "Jes\u00fas Lago Oliver",
+    "country": "Spain",
+    "state": null,
+    "city": "Madrid",
+    "website": "https://cirugiagenero.com/en/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0129",
+    "name": "Hermann Sailer",
+    "country": "Switzerland",
+    "state": "Zurich",
+    "city": "Zurich",
+    "website": "https://www.sailerclinic.com/en/",
+    "rating": 4.0,
+    "reviewCount": 11,
+    "realSelfLink": "https://www.realself.com/dr/hermann-f-sailer-zurich-switzerland",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0130",
+    "name": "Simon Watts",
+    "country": "United Kingdom",
+    "state": "East Sussex",
+    "city": "Brighton",
+    "website": "http://www.simon-watts.co.uk/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0131",
+    "name": "Brian Musgrove",
+    "country": "United Kingdom",
+    "state": "Greater London",
+    "city": "London",
+    "website": "https://www.finder.bupa.co.uk/Consultant/view/51564/mr_brian_musgrove",
+    "rating": 3.6,
+    "reviewCount": 16,
+    "realSelfLink": "https://www.realself.com/dr/brian-musgrove-london-united-kingdom",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0132",
+    "name": "Christopher Inglefield",
+    "country": "United Kingdom",
+    "state": "Greater London",
+    "city": "London",
+    "website": "https://www.thelondontransgenderclinic.uk",
+    "rating": 4.8,
+    "reviewCount": 45,
+    "realSelfLink": "https://www.realself.com/dr/christopher-j-inglefield-london-united-kingdom",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0133",
+    "name": "John Anthony Pereira",
+    "country": "United Kingdom",
+    "state": "East Sussex",
+    "city": "Bexhill",
+    "website": "https://coodenmedicalgroup.com/about/our-team/mr-john-pereira/",
+    "rating": 4.7,
+    "reviewCount": 22,
+    "realSelfLink": "https://www.realself.com/dr/john-pereira-east-grinstead-united-kingdom",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0134",
+    "name": "Nikhil Maini",
+    "country": "United Kingdom",
+    "state": "East Sussex",
+    "city": "Brighton",
+    "website": "https://www.nikmaini.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0135",
+    "name": "Roderick Morrison",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Aberdeen",
+    "website": "https://www.finder.bupa.co.uk/Consultant/view/84128/mr_roderick_morrison",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0136",
+    "name": "Moorthy Halsnad",
+    "country": "United Kingdom",
+    "state": "Lanarkshire",
+    "city": "Glasgow",
+    "website": "https://moorthyhalsnad.co.uk/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0137",
+    "name": "Mark Gorman",
+    "country": "United Kingdom",
+    "state": "Greater Manchester",
+    "city": "Manchester",
+    "website": "https://www.transforminglives.co.uk/surgeons/surgeon/mark-gorman?acceptCookies=69d5a45c0c3b8",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/mark-gorman-altrincham-united-kingdom",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0138",
+    "name": "The Face Surgeons",
+    "country": "United Kingdom",
+    "state": "Marylebone",
+    "city": "London",
+    "website": "https://www.thefacesurgeons.co.uk/treatments/facial_feminisation_surgery",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/practices/face-surgeons-london",
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0139",
+    "name": "Spyridon Vlachos",
+    "country": "United Kingdom",
+    "state": "Marylebone",
+    "city": "London",
+    "website": "https://centreforsurgery.com/services/facial-feminisation-surgery-london-uk",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0140",
+    "name": "Toby Meltzer",
+    "country": "United States",
+    "state": "Arizona",
+    "city": "Scottsdale",
+    "website": "https://themeltzerclinic.com/",
+    "rating": 4.7,
+    "reviewCount": 7,
+    "realSelfLink": "https://docs.google.com/spreadsheets/d/1YwK6PWekT_QimqgZVe7yt7bu53A8waYCPfjrbzfFqrc/edit?gid=1942255432#gid=1942255432",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0141",
+    "name": "Ellie Zara Ley",
+    "country": "United States",
+    "state": "Arizona",
+    "city": "Scottsdale",
+    "website": "https://www.themeltzerclinic.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0142",
+    "name": "Toby Gerald Mayer",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://www.drtobymayer.com/",
+    "rating": 4.8,
+    "reviewCount": 103,
+    "realSelfLink": "https://www.realself.com/dr/toby-mayer-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0143",
+    "name": "Crane Center",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://cranects.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0144",
+    "name": "Joel Beck",
+    "country": "United States",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "website": "https://www.beckaestheticsurgery.com/",
+    "rating": 4.9,
+    "reviewCount": 289,
+    "realSelfLink": "https://www.realself.com/dr/joel-b-beck-charlotte-nc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Breast augmentation"
+    ]
+  },
+  {
+    "id": "0145",
+    "name": "Alexander Sinclair",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://www.sinclairplasticsurgery.com/",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "realSelfLink": "https://www.realself.com/dr/alexander-sinclair-beverly-hills-caa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0146",
+    "name": "Michael K. Obeng",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "http://www.mikoplasticsurgery.com/dr-michael-k-obeng/",
+    "rating": 4.8,
+    "reviewCount": 55,
+    "realSelfLink": "https://www.realself.com/dr/michael-k-obeng-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0147",
+    "name": "Murtaza (Mort) Rizvi",
+    "country": "United States",
+    "state": "California",
+    "city": "Studio City",
+    "website": "https://www.westempireplasticsurgery.com",
+    "rating": 4.4,
+    "reviewCount": 7,
+    "realSelfLink": "https://www.realself.com/dr/murtaza-mort-rizvi-los-angeles-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Breast augmentation"
+    ]
+  },
+  {
+    "id": "0148",
+    "name": "Nance Yuan",
+    "country": "United States",
+    "state": "California",
+    "city": "Glendale",
+    "website": "https://dryuanmd.com/",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/nance-yuan-glendale-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0149",
+    "name": "Alex Kim",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "http://alexkimmd.com",
+    "rating": 4.4,
+    "reviewCount": 31,
+    "realSelfLink": "https://www.realself.com/dr/alex-kim-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0150",
+    "name": "Thomas Satterwhite",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://alignsurgical.com/dr-thomas-satterwhite/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0151",
+    "name": "Dev N Gurjala",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://www.alignsurgical.com/about/dr-dev-gurjala/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0152",
+    "name": "Angela Rodriguez",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://artsurgical.net/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0153",
+    "name": "Andrew Kleinberger",
+    "country": "United States",
+    "state": "California",
+    "city": "Walnut Creek",
+    "website": "https://mydoctor.kaiserpermanente.org/ncal/provider/andrewkleinberger",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0154",
+    "name": "Charles Shih",
+    "country": "United States",
+    "state": "California",
+    "city": "Richmond",
+    "website": "https://mydoctor.kaiserpermanente.org/ncal/provider/charlesshih/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0155",
+    "name": "Kathleyn Brandstetter",
+    "country": "United States",
+    "state": "California",
+    "city": "San Leandro",
+    "website": "https://mydoctor.kaiserpermanente.org/ncal/providers/kathleynbrandstetter",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0156",
+    "name": "Susan Kaweski",
+    "country": "United States",
+    "state": "California",
+    "city": "La Mesa",
+    "website": "https://www.plasticsurgerysandiego.com/services/face/trangender-facial-surgery/",
+    "rating": 5.0,
+    "reviewCount": 5,
+    "realSelfLink": "https://www.realself.com/dr/susan-kaweski-la-mesa-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0157",
+    "name": "Vladimir Grigoryants",
+    "country": "United States",
+    "state": "California",
+    "city": "Glendale",
+    "website": "https://www.vgplasticsurgery.com/",
+    "rating": 4.3,
+    "reviewCount": 477,
+    "realSelfLink": "https://www.realself.com/dr/vladimir-grigoryants-glendale-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0158",
+    "name": "Harrison Lee",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://www.harrisonleeplasticsurgeon.com/",
+    "rating": 4.3,
+    "reviewCount": 66,
+    "realSelfLink": "https://www.realself.com/dr/harrison-h-lee-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0159",
+    "name": "Mark Schoemann",
+    "country": "United States",
+    "state": "California",
+    "city": "Encinitas",
+    "website": "https://schoemannplasticsurgery.com/",
+    "rating": 5.0,
+    "reviewCount": 24,
+    "realSelfLink": "https://www.realself.com/dr/mark-schoemann-encinitas-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0160",
+    "name": "Richard Huynh",
+    "country": "United States",
+    "state": "California",
+    "city": "Bell Gardens",
+    "website": "https://bgmgcosmetics.com/doctors/dr-richard-huynh/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/richard-huynh-irvine-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0161",
+    "name": "Rahul Seth",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://www.goldenstatedermatology.com/plasticsurgery",
+    "rating": 5.0,
+    "reviewCount": 12,
+    "realSelfLink": "https://www.realself.com/dr/rahul-seth-san-francisco-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0162",
+    "name": "Julie Ann Ames",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/julie-ames-0185013",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0163",
+    "name": "Alexander Facque",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://www.genderconfirmation.com/team/dr-alex-facque/",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/alexander-facque-san-francisco-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0164",
+    "name": "Justine C. Lee",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://www.uclahealth.org/justine-lee",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0165",
+    "name": "Wayne H. Ozaki",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://www.uclahealth.org/providers/wayne-ozaki",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0166",
+    "name": "Yuan Liu",
+    "country": "United States",
+    "state": "California",
+    "city": "San Diego",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/yuan-liu-4237000",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0167",
+    "name": "Gerald Jeung-Il Cho",
+    "country": "United States",
+    "state": "California",
+    "city": "Ontario",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/gerald-cho-3689713",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0168",
+    "name": "Stacey Hindy Francis",
+    "country": "United States",
+    "state": "California",
+    "city": "East Hollywood",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/stacey-francis-2256039",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0169",
+    "name": "Melinda A Costa",
+    "country": "United States",
+    "state": "California",
+    "city": "San Jose",
+    "website": "https://costamd.com/",
+    "rating": 5.0,
+    "reviewCount": 8,
+    "realSelfLink": "https://www.realself.com/dr/melinda-a-costa-san-jose-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0170",
+    "name": "William Hoffman",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://www.ucsfhealth.org/providers/william-hoffman",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/william-y-hoffman-san-francisco-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0171",
+    "name": "Jonathan Sykes",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://drjonathansykes.com/",
+    "rating": 4.6,
+    "reviewCount": 96,
+    "realSelfLink": "https://www.realself.com/dr/jonathan-sykes-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0172",
+    "name": "Gary J. Alter",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "https://altermd.com/transgender-surgery/transgender-facial-cosmetic-surgery/",
+    "rating": 4.7,
+    "reviewCount": 72,
+    "realSelfLink": "https://www.realself.com/dr/gary-j-alter-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0173",
+    "name": "Robert Beinrauh",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/robert-beinrauh-3674638",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/robert-beinrauh-downey-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0174",
+    "name": "Graham Chester Arthur Ives",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://www.ivesmd.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/graham-ives-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0175",
+    "name": "Paul Andrew Mittermiller",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://www.paulmittermillermd.com",
+    "rating": 5.0,
+    "reviewCount": 3,
+    "realSelfLink": "https://www.realself.com/dr/paul-mittermiller-santa-monica-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0176",
+    "name": "Han Le Thuc Hoang",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://www.pacificlipo.com/staff/dr-han-hoang-m-d.html",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/han-hoang-huntington-beach-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0177",
+    "name": "Michael W. Chu",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/michael-chu-3058784",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0178",
+    "name": "Amanda Anderson Gosman",
+    "country": "United States",
+    "state": "California",
+    "city": "San Diego",
+    "website": "https://providers.ucsd.edu/details/11501/plastic-surgery-surgery",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0179",
+    "name": "James Cheng-han Lee",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "website": "https://healthy.kaiserpermanente.org/southern-california/physicians/james-lee-1415347",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0180",
+    "name": "Joshua Rosenberg",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://www.drjoshuarosenberg.com/blog/guide-to-facial-feminization-surgery",
+    "rating": 5.0,
+    "reviewCount": 4,
+    "realSelfLink": "https://www.realself.com/dr/joshua-d-rosenberg-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0181",
+    "name": "Jason H. Pomerantz",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://pomerantzlab.ucsf.edu/bio/jason-h-pomerantz-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/jason-harris-pomerantz-san-francisco-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0182",
+    "name": "Miles J. Pfaff",
+    "country": "United States",
+    "state": "California",
+    "city": "Costa Mesa",
+    "website": "https://www.uciplasticsurgery.com/meet-the-providers/miles-j-pfaff-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0183",
+    "name": "Artur Fahradyan",
+    "country": "United States",
+    "state": "California",
+    "city": "Westlake Village",
+    "website": "https://www.mdartplasticsurgery.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/artur-fahradyan-westlake-village-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0184",
+    "name": "Sven Gunther",
+    "country": "United States",
+    "state": "California",
+    "city": "San Francisco",
+    "website": "https://www.legacysurgicalpartners.com/about",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0185",
+    "name": "Terrence Murphy",
+    "country": "United States",
+    "state": "Colorado",
+    "city": "Denver",
+    "website": "http://murphygendercenter.com",
+    "rating": 4.7,
+    "reviewCount": 43,
+    "realSelfLink": "https://www.realself.com/dr/terrence-murphy-englewood-co",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0186",
+    "name": "Julian Simon Winocour",
+    "country": "United States",
+    "state": "Colorado",
+    "city": "Aurora",
+    "website": "https://www.doximity.com/pub/julian-winocour-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/julian-winocour-aurora-co",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0187",
+    "name": "Christodoulos Kaoutzanis",
+    "country": "United States",
+    "state": "Colorado",
+    "city": "Aurora",
+    "website": "https://www.uchealth.org/provider/christodoulos-kaoutzanis-md/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/christodoulos-kaoutzanis-aurora-co",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0188",
+    "name": "Michael Alperovich",
+    "country": "United States",
+    "state": "Connecticut",
+    "city": "New Haven",
+    "website": "https://medicine.yale.edu/profile/michael_alperovich",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/michael-alperovich-new-haven-ct",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0189",
+    "name": "Vartan Mardirossian",
+    "country": "United States",
+    "state": "Virginia",
+    "city": "McLean",
+    "website": "http://palmbeachplastics.com/ffs-surgery/",
+    "rating": 4.8,
+    "reviewCount": 74,
+    "realSelfLink": "https://www.realself.com/dr/vartan-mardirossian-mclean-va",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0190",
+    "name": "Andres Bustillo",
+    "country": "United States",
+    "state": "Florida",
+    "city": "Miami",
+    "website": "https://www.drbustillo.com/",
+    "rating": 4.8,
+    "reviewCount": 191,
+    "realSelfLink": "https://www.realself.com/dr/andres-bustillo-coral-gables-fl",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0191",
+    "name": "Ross A Clevens",
+    "country": "United States",
+    "state": "Florida",
+    "city": "Melbourne",
+    "website": "https://www.drclevens.com/",
+    "rating": 4.7,
+    "reviewCount": 230,
+    "realSelfLink": "https://www.realself.com/dr/ross-a-clevens-melbourne-fl",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0192",
+    "name": "Sofia K. Kirk",
+    "country": "United States",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "website": "https://www.poshplasticsurgery.com/",
+    "rating": 4.6,
+    "reviewCount": 76,
+    "realSelfLink": "https://www.realself.com/dr/sofia-k-kirk-jacksonville-fl",
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0193",
+    "name": "Drew Evan Schnitt",
+    "country": "United States",
+    "state": "Florida",
+    "city": "Delray Beach",
+    "website": "https://inspireaesthetics.com/dr-drew-schnitt",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/drew-evan-schnitt-fort-lauderdale-fl",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0194",
+    "name": "Sun Tso Hsieh",
+    "country": "United States",
+    "state": "Michigan",
+    "city": "Detroit",
+    "website": "https://www.dmc.org/provider/1821358862",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0195",
+    "name": "Sheldon Lincenberg",
+    "country": "United States",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "website": "https://www.drlincenberg.com/",
+    "rating": 4.7,
+    "reviewCount": 50,
+    "realSelfLink": "https://www.realself.com/dr/sheldon-lincenberg-atlanta-ga",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0196",
+    "name": "Cang Carson Huynh",
+    "country": "United States",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "website": "https://www.discoverradiance.com",
+    "rating": 4.7,
+    "reviewCount": 51,
+    "realSelfLink": "https://www.realself.com/dr/c-car-atlanta-ga",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0197",
+    "name": "David Chou",
+    "country": "United States",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "website": "https://www.davidchoumd.com",
+    "rating": 5.0,
+    "reviewCount": 5,
+    "realSelfLink": "https://www.realself.com/dr/david-chou-atlanta-ga",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0198",
+    "name": "Mark Zukowski",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Wilmette",
+    "website": "http://www.mlzukowski.com/",
+    "rating": 3.3,
+    "reviewCount": 13,
+    "realSelfLink": "https://www.realself.com/dr/mark-zukowski-wilmette-il",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0199",
+    "name": "Aditya Sood",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Chicago",
+    "website": "https://drturowski.com/aditya-sood-md-mba.html",
+    "rating": 5.0,
+    "reviewCount": 101,
+    "realSelfLink": "https://www.realself.com/dr/aditya-sood-skokie-il",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0200",
+    "name": "Jeffrey Weinzweig",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Chicago",
+    "website": "https://www.smartplasticsurgerymiami.com/dr-jeffrey-weinzweig/",
+    "rating": 4.3,
+    "reviewCount": 120,
+    "realSelfLink": "https://www.realself.com/dr/jeffrey-weinzweig-chicago-il",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0201",
+    "name": "Parit A. Patel",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Chicago",
+    "website": "https://www.pscofchicago.com/",
+    "rating": 5.0,
+    "reviewCount": 16,
+    "realSelfLink": "https://www.realself.com/dr/parit-a-patel-chicago-il",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0202",
+    "name": "Brandon Baird",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Chicago",
+    "website": "https://www.uchicagomedicine.org/find-a-physician/physician/brandon-baird",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0203",
+    "name": "Bradley Nesemeier",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Chicago",
+    "website": "https://doctors.rush.edu/details/22059",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0204",
+    "name": "Barry Eppley",
+    "country": "United States",
+    "state": "Indiana",
+    "city": "Carmel",
+    "website": "https://www.eppleyplasticsurgery.com/",
+    "rating": 4.4,
+    "reviewCount": 130,
+    "realSelfLink": "https://www.realself.com/dr/barry-l-eppley-carmel-in",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0205",
+    "name": "Nataliya Biskup",
+    "country": "United States",
+    "state": "Kansas",
+    "city": "Wichita",
+    "website": "https://heartlandplasticsurgery.com/#about",
+    "rating": 5.0,
+    "reviewCount": 4,
+    "realSelfLink": "https://www.realself.com/dr/nataliya-biskup-hutchinson-ks",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0206",
+    "name": "Michael Lypka",
+    "country": "United States",
+    "state": "Kansas",
+    "city": "Kansas City",
+    "website": "https://www.kumc.edu/mlypka.html",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0207",
+    "name": "Tathyana Marques Fernandes Fensterer",
+    "country": "United States",
+    "state": "Kentucky",
+    "city": "Elizabethtown",
+    "website": "https://www.baptisthealth.com/providers/tathyana-m-fensterer-md-plastic-surgery",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0208",
+    "name": "Gerhard S. Mundinger",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Austin",
+    "website": "https://cranects.com/dr-sol-mundinger",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0209",
+    "name": "Devin O'Brien Coon",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Jamaica Plain",
+    "website": "https://physiciandirectory.brighamandwomens.org/details/15406/devin-obrien-coon-plastic_surgery-boston",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0210",
+    "name": "Gabriel Del Corral",
+    "country": "United States",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "website": "https://www.medstarhealth.org/doctors/gabriel-alfonso-del-corral-md",
+    "rating": 4.8,
+    "reviewCount": 103,
+    "realSelfLink": "https://www.realself.com/dr/gabriel-del-corral-westminster-md",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0211",
+    "name": "Fan Liang",
+    "country": "United States",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "website": "https://www.hopkinsmedicine.org/profiles/details/fan-liang",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0212",
+    "name": "Jeffrey Spiegel",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "website": "http://www.drspiegel.com/",
+    "rating": 4.8,
+    "reviewCount": 391,
+    "realSelfLink": "https://www.realself.com/dr/jeffrey-h-spiegel-newton-ma",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0213",
+    "name": "Branko Bojovic",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "website": "https://www.massgeneral.org/doctors/19776/branko-bojovic",
+    "rating": 5.0,
+    "reviewCount": 2,
+    "realSelfLink": "https://www.realself.com/dr/branko-bojovic-baltimore-md",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0214",
+    "name": "Timothy Osborn",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "website": "https://cmfsurgeons.com/about-us/our-team/dr-tim-osborn/",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "realSelfLink": "https://www.realself.com/dr/timothy-osborn-boston-ma",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0215",
+    "name": "Kavitha Ranganathan",
+    "country": "United States",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "website": "https://physiciandirectory.brighamandwomens.org/details/14614/kavitha-ranganathan-plastic_surgery-boston",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0216",
+    "name": "Laura Rubi Garcia-Rodriguez",
+    "country": "United States",
+    "state": "Michigan",
+    "city": "Dearborn",
+    "website": "https://www.henryford.com/physician-directory/g/garcia-rodriguez-laura",
+    "rating": 5.0,
+    "reviewCount": 31,
+    "realSelfLink": "https://www.realself.com/dr/laura-garcia-rodriguez-dearborn-mi",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0217",
+    "name": "Marco Ellis",
+    "country": "United States",
+    "state": "Illinois",
+    "city": "Chicago",
+    "website": "https://marcoellismd.com",
+    "rating": 3.1,
+    "reviewCount": 16,
+    "realSelfLink": "https://www.realself.com/dr/marco-ellis-chicago-il",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0218",
+    "name": "Hannes Prescher",
+    "country": "United States",
+    "state": "Michigan",
+    "city": "Ann Arbor",
+    "website": "https://www.uofmhealth.org/profile/1336677202/hannes-prescher",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0219",
+    "name": "Bryan Rolfes",
+    "country": "United States",
+    "state": "Minnesota",
+    "city": "Wayzata",
+    "website": "https://omnicosmetic.com/dr-bryan-n-rolfes/",
+    "rating": 5.0,
+    "reviewCount": 54,
+    "realSelfLink": "https://www.realself.com/dr/bryan-rolfes-wayzata-mn",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0220",
+    "name": "Arif Chaudhry",
+    "country": "United States",
+    "state": "Minnesota",
+    "city": "Minnetonka",
+    "website": "https://providers.allinahealth.org/provider/arif-r-chaudhry/5829340",
+    "rating": 5.0,
+    "reviewCount": 69,
+    "realSelfLink": "https://www.realself.com/dr/arif-chaudhry-minnetonka-mn",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0221",
+    "name": "Richard H. Thorlen",
+    "country": "United States",
+    "state": "Minnesota",
+    "city": "Minneapolis",
+    "website": "https://mpsmn.com/",
+    "rating": 4.9,
+    "reviewCount": 349,
+    "realSelfLink": "https://www.realself.com/dr/richard-h-tholen-minneapolis-mn",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0222",
+    "name": "Thomas D Willson",
+    "country": "United States",
+    "state": "Missouri",
+    "city": "Columbia",
+    "website": "https://www.muhealth.org/doctors/thomas-willson-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0223",
+    "name": "John Taylor",
+    "country": "United States",
+    "state": "New Jersey",
+    "city": "Red Bank",
+    "website": "https://www.allurenj.com/",
+    "rating": 5.0,
+    "reviewCount": 5,
+    "realSelfLink": "https://www.realself.com/dr/john-m-taylor-red-bank-nj",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0224",
+    "name": "Jonathan Keith",
+    "country": "United States",
+    "state": "New Jersey",
+    "city": "Livingston",
+    "website": "https://www.jonathankeithmd.com/",
+    "rating": 5.0,
+    "reviewCount": 2,
+    "realSelfLink": "https://www.realself.com/dr/jonathan-keith-livingston-nj",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0225",
+    "name": "Jess Ting",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://www.mountsinai.org/profiles/jess-ting",
+    "rating": 3.9,
+    "reviewCount": 13,
+    "realSelfLink": "https://www.realself.com/dr/jess-ting-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0226",
+    "name": "Bella K Avanessian",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://www.mountsinai.org/profiles/bella-k-avanessian",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0227",
+    "name": "John Henry Youm Pang",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://www.mountsinai.org/profiles/john-h-y-pang3",
+    "rating": null,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/john-henry-pang-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0228",
+    "name": "Oren M. Tepper",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "http://www.orenteppermd.com/",
+    "rating": 4.2,
+    "reviewCount": 10,
+    "realSelfLink": "https://www.realself.com/dr/oren-tepper-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0229",
+    "name": "Harrison Lee",
+    "country": "United States",
+    "state": "California",
+    "city": "Beverly Hills",
+    "website": "http://www.harrisonleeplasticsurgeon.com/",
+    "rating": 4.3,
+    "reviewCount": 66,
+    "realSelfLink": "https://www.realself.com/dr/harrison-h-lee-beverly-hills-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0230",
+    "name": "Rachel Bluebond-Langner",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://nyulangone.org/doctors/1902867393/rachel-bluebond-langner",
+    "rating": 5.0,
+    "reviewCount": 11,
+    "realSelfLink": "https://www.realself.com/dr/rachel-bluebond-langner-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0231",
+    "name": "Eduardo D. Rodriguez",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://nyulangone.org/doctors/1164462867/eduardo-d-rodriguez",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0232",
+    "name": "James P Bradley",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://www.jamespbradleymd.com",
+    "rating": 3.0,
+    "reviewCount": 9,
+    "realSelfLink": "https://www.realself.com/dr/james-p-bradley-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0233",
+    "name": "Ronald Espinoza",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "http://drronaldespinoza.com/",
+    "rating": 4.4,
+    "reviewCount": 15,
+    "realSelfLink": "https://www.realself.com/dr/ronald-espinoza-new-york-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0234",
+    "name": "Nicholas Bastidas",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://www.drbastidas.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/nicholas-bastidas-lake-success-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0235",
+    "name": "Mark Sam Courey",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://profiles.mountsinai.org/mark-s-courey",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0236",
+    "name": "Andrew H. Lee",
+    "country": "United States",
+    "state": "New York",
+    "city": "Bronx",
+    "website": "https://www.montefiore.org/doctors/profiles/1316334501/Andrew-H-Lee",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/andrew-h-lee-bronx-ny",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0237",
+    "name": "Elan Horesh",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "website": "https://profiles.mountsinai.org/elan-l-horesh",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0238",
+    "name": "Keelee MacPhee",
+    "country": "United States",
+    "state": "North Carolina",
+    "city": "Durham",
+    "website": "https://keeleemacpheemd.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0239",
+    "name": "Joel Beck",
+    "country": "United States",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "website": "https://www.beckaestheticsurgery.com/",
+    "rating": 4.9,
+    "reviewCount": 289,
+    "realSelfLink": "https://www.realself.com/dr/joel-b-beck-charlotte-nc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0240",
+    "name": "Ali Seyed Totonchi",
+    "country": "United States",
+    "state": "Ohio",
+    "city": "Lyndhurst",
+    "website": "https://drtotonchi.com/facial-feminization-surgery",
+    "rating": 4.8,
+    "reviewCount": 62,
+    "realSelfLink": "https://www.realself.com/dr/ali-totonchi-lyndhurst-oh",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0241",
+    "name": "James E. Zins",
+    "country": "United States",
+    "state": "Ohio",
+    "city": "Mayfield Heights",
+    "website": "https://my.clevelandclinic.org/staff/288-james-zins",
+    "rating": 5.0,
+    "reviewCount": 6,
+    "realSelfLink": "https://www.realself.com/dr/james-e-zins-cleveland-oh",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0242",
+    "name": "Bahar Bassiri Gharb",
+    "country": "United States",
+    "state": "Ohio",
+    "city": "Cleveland",
+    "website": "https://my.clevelandclinic.org/staff/19059-bahar-bassiri-gharb",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0243",
+    "name": "Jens Urs Berli",
+    "country": "United States",
+    "state": "Oregon",
+    "city": "Portland",
+    "website": "https://www.ohsu.edu/providers/jens-berli-u/FD14F4C0498E42D98727E04A2CC33E02",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0244",
+    "name": "Shannon O\u2019Brien",
+    "country": "United States",
+    "state": "Oregon",
+    "city": "Portland",
+    "website": "https://www.portlandplasticsurgerygroup.com/about-us/meet-dr-obrien/",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "realSelfLink": "https://www.realself.com/dr/shannon-obrien-portland-or",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0245",
+    "name": "Nick Orem Esmonde",
+    "country": "United States",
+    "state": "Oregon",
+    "city": "Portland",
+    "website": "https://www.doximity.com/pub/nick-esmonde-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0246",
+    "name": "Myriam Loyo Li",
+    "country": "United States",
+    "state": "Oregon",
+    "city": "Portland",
+    "website": "https://www.ohsu.edu/providers/myriam-loyoli-md-mcr",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "realSelfLink": "https://www.realself.com/dr/myriam-loyo-portland-or",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0247",
+    "name": "Joshua S. Schindler",
+    "country": "United States",
+    "state": "Oregon",
+    "city": "Portland",
+    "website": "https://www.ohsu.edu/providers/joshua-s-schindler-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0248",
+    "name": "Christine McGinn",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "city": "New Hope",
+    "website": "http://www.drchristinemcginn.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0249",
+    "name": "Kathy Lynn Rumer",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "city": "Lafayette Hill",
+    "website": "https://rumergendersurgery.com/",
+    "rating": 2.9,
+    "reviewCount": 31,
+    "realSelfLink": "https://www.realself.com/dr/kathy-rumer-ardmore-pa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0250",
+    "name": "Sherman Leis",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "city": "Bala Cynwyd",
+    "website": "https://www.medicard.com/provider-profile.php?id=3962",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0251",
+    "name": "Andrew Gassman",
+    "country": "United States",
+    "state": "Texas",
+    "city": "San Antonio",
+    "website": "https://prma-enhance.com/about-us/our-surgeons/andrew-gassman-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/andrew-gassman-san-antonio-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0252",
+    "name": "Jude Opoku-Agyeman",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "city": "Bala Cynwd",
+    "website": "https://www.dropokuplastics.com",
+    "rating": 3.9,
+    "reviewCount": 8,
+    "realSelfLink": "https://www.realself.com/dr/jude-opoku-agyeman-langhorn-pa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0253",
+    "name": "Brodie Parent",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "city": "Pittsburgh",
+    "website": "https://www.plasticsurgery.pitt.edu/people/brodie-parent-md-ms",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0254",
+    "name": "Albert S. Woo",
+    "country": "United States",
+    "state": "Rhode Island",
+    "city": "Providence",
+    "website": "https://plasticsurgery.med.brown.edu/people/albert-s-woo-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0255",
+    "name": "Nikki Mark Burish",
+    "country": "United States",
+    "state": "South Carolina",
+    "city": "Columbia",
+    "website": "https://doctors.prismahealth.org/provider/Nikki+Mark+Burish/2009398",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0256",
+    "name": "Salam H. Alkassis",
+    "country": "United States",
+    "state": "Tennessee",
+    "city": "Brentwood",
+    "website": "https://www.vanderbilthealth.com/doctors/kassis-salam",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0257",
+    "name": "Angela Sturm",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Bellaire",
+    "website": "https://www.drangelasturm.com/",
+    "rating": 5.0,
+    "reviewCount": 10,
+    "realSelfLink": "https://www.realself.com/dr/angela-sturm-houston-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0258",
+    "name": "Regina Elizabeth Rodman",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Houston",
+    "website": "http://www.drreginarodman.com",
+    "rating": 4.3,
+    "reviewCount": 23,
+    "realSelfLink": "https://www.realself.com/dr/regina-rodman-houston-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0259",
+    "name": "Michael Eisemann",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Houston",
+    "website": "http://cosmeticsurgeryhouston.com/",
+    "rating": 4.3,
+    "reviewCount": 41,
+    "realSelfLink": "https://www.realself.com/dr/michael-eisemann-houston-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0260",
+    "name": "Alan Dulin",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Plano",
+    "website": "https://www.ai4ps.com/plano-plastic-surgeons/dr-dulin/",
+    "rating": 4.6,
+    "reviewCount": 39,
+    "realSelfLink": "https://www.realself.com/dr/william-alan-dulin-plano-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0261",
+    "name": "Peter Raphael",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Plano",
+    "website": "https://www.ai4ps.com/plano-plastic-surgeons/dr-peter-raphael/",
+    "rating": 4.8,
+    "reviewCount": 48,
+    "realSelfLink": "https://www.realself.com/dr/peter-raphael-plano-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0262",
+    "name": "Sarah Saxon",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Austin",
+    "website": "https://saxonmd.com/",
+    "rating": 4.3,
+    "reviewCount": 51,
+    "realSelfLink": "https://www.realself.com/dr/sarah-saxon-austin-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0263",
+    "name": "Bardia Amirlak",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Dallas",
+    "website": "https://www.amirlakplasticsurgery.com",
+    "rating": 5.0,
+    "reviewCount": 4,
+    "realSelfLink": "https://www.realself.com/dr/bardia-amirlak-dallas-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0264",
+    "name": "Adam Bryce Weinfeld",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Austin",
+    "website": "https://www.drweinfeld.com",
+    "rating": 4.9,
+    "reviewCount": 133,
+    "realSelfLink": "https://www.realself.com/dr/adam-bryce-weinfeld-austin-tx",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0265",
+    "name": "Gerhard S. Mundinger",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Austin",
+    "website": "https://cranects.com/dr-sol-mundinger/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0266",
+    "name": "University of Utah",
+    "country": "United States",
+    "state": "Utah",
+    "city": "Salt Lake City",
+    "website": "https://healthcare.utah.edu/locations/hospital",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0267",
+    "name": "Dana Johns",
+    "country": "United States",
+    "state": "Utah",
+    "city": "Salt Lake City",
+    "website": "https://healthcare.utah.edu/find-a-doctor/dana-n-johns",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0268",
+    "name": "Thomas D Willson",
+    "country": "United States",
+    "state": "Missouri",
+    "city": "Columbia",
+    "website": "https://www.muhealth.org/doctors/thomas-willson-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0269",
+    "name": "Jacob E. Kuperstock",
+    "country": "United States",
+    "state": "Virginia",
+    "city": "Fairfax",
+    "website": "http://www.otolaryngology-assoc.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0270",
+    "name": "Byron Poindexter",
+    "country": "United States",
+    "state": "Virginia",
+    "city": "Reston",
+    "website": "https://www.austin-weston.com/byron-poindexter",
+    "rating": 4.8,
+    "reviewCount": 58,
+    "realSelfLink": "https://www.realself.com/dr/byron-d-poindexter-reston-va",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0271",
+    "name": "Jonathan S. Black",
+    "country": "United States",
+    "state": "Virginia",
+    "city": "Charlottesville",
+    "website": "https://med.virginia.edu/plastic-surgery-and-oral-health/about/faculty/jonathan-s-black-md-facs/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0272",
+    "name": "Samuel Luke Oyer",
+    "country": "United States",
+    "state": "Virginia",
+    "city": "Charlottesville",
+    "website": "https://www.uvahealth.com/providers/Samuel-Oyer-1215164587",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0273",
+    "name": "Geoffrey Stiller",
+    "country": "United States",
+    "state": "Washington",
+    "city": "Spokane",
+    "website": "https://stilleraesthetics.com",
+    "rating": 4.6,
+    "reviewCount": 23,
+    "realSelfLink": "https://www.realself.com/dr/geoffrey-stiller-spokane-wa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0274",
+    "name": "Michael James Nuara",
+    "country": "United States",
+    "state": "Washington",
+    "city": "Seattle",
+    "website": "https://www.vmfh.org/find-a-doctor/michael-j-nuara-1942498357",
+    "rating": 5.0,
+    "reviewCount": 8,
+    "realSelfLink": "https://www.realself.com/dr/michael-j-nuara-seattle-wa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0275",
+    "name": "Javad Sajan",
+    "country": "United States",
+    "state": "Washington",
+    "city": "Seattle",
+    "website": "https://www.allureesthetic.com/",
+    "rating": 4.7,
+    "reviewCount": 43,
+    "realSelfLink": "https://www.realself.com/dr/javad-sajan-seattle-wa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0276",
+    "name": "Craig R. Jonov",
+    "country": "United States",
+    "state": "Washington",
+    "city": "Seattle",
+    "website": "https://www.seattleplasticsurgery.com/about-dr-jonov/",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "realSelfLink": "https://www.realself.com/dr/craig-jonov-lynnwood-wa",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0277",
+    "name": "Tommy Liu",
+    "country": "United States",
+    "state": "Washington",
+    "city": "Seattle",
+    "website": "https://polyclinicplasticsurgery.com/surgeons/doctor-tommy-liu/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0278",
+    "name": "Derek L. Masden",
+    "country": "United States",
+    "state": "Maryland",
+    "city": "Annapolis",
+    "website": "https://www.luminishealth.org/en/find-a-provider/derek-masden?language_content_entity=en",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0279",
+    "name": "Praful Ramineni",
+    "country": "United States",
+    "state": "Washington",
+    "city": "District of Columbia",
+    "website": "https://www.districtplasticsurgery.com/about-plastic-surgeon-washington-dc/",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "realSelfLink": "https://www.realself.com/dr/praful-ramineni-washington-dc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0280",
+    "name": "Jerry Chao",
+    "country": "United States",
+    "state": "Washington",
+    "city": "District of Columbia",
+    "website": "https://www.gwdocs.com/find-a-doctor/jerry-chao-md/",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/jerry-chao-washington-dc",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0281",
+    "name": "Steven Bielamowicz",
+    "country": "United States",
+    "state": "Washington",
+    "city": "District of Columbia",
+    "website": "https://www.gwdocs.com/find-a-doctor/steven-bielamowicz-md/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0282",
+    "name": "Scott R. Chaiet",
+    "country": "United States",
+    "state": "Wisconsin",
+    "city": "Madison",
+    "website": "https://www.uwhealth.org/providers/scott-r-chaiet-md-mba",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0283",
+    "name": "Catharine Bradford Garland",
+    "country": "United States",
+    "state": "Wisconsin",
+    "city": "Madison",
+    "website": "https://www.surgery.wisc.edu/staff/catharine-garland/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0284",
+    "name": "Suporn Clinic",
+    "country": "Thailand",
+    "state": "Chon Buri",
+    "city": "Chon Buri",
+    "website": "http://www.supornclinic.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0285",
+    "name": "Preecha Aesthetic Institute",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "http://pai.co.th",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0286",
+    "name": "Greechart Pornsinsirisak",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://bangkokthailandplasticsurgery.com/dr-greechart-pornsinsirirak-md/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0287",
+    "name": "Juta Jansi",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://www.health-tourism.com/staffperson.aspx?b=1&sp=9679",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0288",
+    "name": "Pacharapong Patrasinsuntorn",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://www.tokaiclinic.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0289",
+    "name": "Thiti Chaovanalikit",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://www.bumrungrad.com/en/doctors/thiti-chaovanalikit",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": "https://www.realself.com/dr/thiti-chaovanalikit-bangkok-thailand",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0290",
+    "name": "Parin Tatsanavivat",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "http://www.siamswan.com",
+    "rating": 4.9,
+    "reviewCount": 47,
+    "realSelfLink": "https://www.realself.com/dr/parin-tatsanavivat-bangkok-thailand",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0291",
+    "name": "Poonpissamai Suwajo",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://nirundaclinic.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0292",
+    "name": "Suthat Koonnawarote",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://www.yanhee.net/doctors/dr-suthat-koonnawarote",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0293",
+    "name": "Supasid Jirawatnotai",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://supasidclinic.com",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0294",
+    "name": "Rushapol Sdawat",
+    "country": "Thailand",
+    "state": null,
+    "city": "Bangkok",
+    "website": "https://plastic-surgery.travel/en/doctors/doctor-rushapol-sdawat/?gad_source=1&gad_campaignid=23643767682&gbraid=0AAAABBR4nCxWzXK6Pmzfq3E7XlazWRYlM&gclid=CjwKCAjw-dfOBhAjEiwAq0RwI3Ihn89Uco3xVnm2KpDMpE5x08bR8DBPRs4V-BZPYRKwoQgyqVizMBoCMVYQAvD_BwE",
+    "rating": 5.0,
+    "reviewCount": 8,
+    "realSelfLink": "https://www.realself.com/dr/rushapol-sdawat-nakhon-sawan-thailand",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery"
+    ]
+  },
+  {
+    "id": "0295",
+    "name": "Pierre Brassard",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "website": "https://www.grsmontreal.com/en/surgeons/1-dr-pierre-brassard.html",
+    "rating": 4.0,
+    "reviewCount": 6,
+    "realSelfLink": "https://www.realself.com/dr/pierre-brassard-montr-al-canada",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0296",
+    "name": "Yonah Krakowsky",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://uofturology.ca/directory/faculty/krakowsky-yonah/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0297",
+    "name": "Alex Laungani",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "website": "https://www.grsmontreal.com/en/surgeons/4-dr-alex-laungani.html",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0298",
+    "name": "Ethan Grober",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://uofturology.ca/directory/faculty/grober-ethan/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0299",
+    "name": "Peter Vlaovic",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "website": "https://www.tehn.ca/health-professionals/dr-peter-vlaovic",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Orchiectomy"
+    ]
+  },
+  {
+    "id": "0300",
+    "name": "Blair Peters",
+    "country": "United States",
+    "state": "Oregon",
+    "city": "Portland",
+    "website": "https://www.ohsu.edu/providers/blair-peters-md",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0301",
+    "name": "Krista Genoway",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "website": "https://www.genowayplasticsurgery.com/",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty",
+      "Body feminization",
+      "Tracheal shave",
+      "Breast augmentation",
+      "Facial masculinization surgery"
+    ]
+  },
+  {
+    "id": "0302",
+    "name": "Alex Kavanagh",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "website": null,
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": false,
+    "operational": false,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0303",
+    "name": "Richard Casey",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Oakville",
+    "website": "https://www.mississaugahaltonhealthline.ca/displayservice.aspx?id=161864",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Orchiectomy"
+    ]
+  },
+  {
+    "id": "0304",
+    "name": "Anthony Cook",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "website": "https://www.aletheamedical.com/specialists/anthony-cook",
+    "rating": null,
+    "reviewCount": null,
+    "realSelfLink": null,
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Vaginoplasty"
+    ]
+  },
+  {
+    "id": "0305",
+    "name": "Peter K. Davis",
+    "country": "United States",
+    "state": "California",
+    "city": "Palo Alto",
+    "website": "https://www.davisplasticsurgery.com/",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "realSelfLink": "https://www.realself.com/dr/peter-davis-palo-alto-ca",
+    "verified": true,
+    "operational": true,
+    "malpractice": false,
+    "specialties": [
+      "Facial feminization surgery",
+      "Vaginoplasty",
+      "Mastectomy"
+    ]
+  }
+]
